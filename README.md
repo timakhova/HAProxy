@@ -9,4 +9,11 @@
 
 # Задание 2
 
+![1serv](https://github.com/timakhova/HAProxy/blob/main/2-1serv.png)
+![2serv](https://github.com/timakhova/HAProxy/blob/main/2-2serv.png)
+![3serv](https://github.com/timakhova/HAProxy/blob/main/2-3serv.png)
+![servrunning](https://github.com/timakhova/HAProxy/blob/main/2-4servrunning.png)
+![haproxyconfig](https://github.com/timakhova/HAProxy/blob/main/2-5haproxyconfig.png)
+![hello](https://github.com/timakhova/HAProxy/blob/main/2-6hello.png)
+
 
